@@ -19,7 +19,7 @@
 
 
 - 🌱 I’m currently learning more about coding.
-- 📫 How to reach me: [Twitter - @r-alqurm]https://twitter.com/r_alqurm?s=09) 
+- 📫 How to reach me: [Twitter - @r-alqurm](https://twitter.com/r_alqurm?s=09) 
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
