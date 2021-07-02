@@ -23,9 +23,6 @@
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
-[![Linkedin: reemalqurm](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reem-alqurm-a17320142/)](https://www.linkedin.com/in/reem-alqurm-a17320142/)
-[![GitHub reemalqurm](https://img.shields.io/github/reem-alqurm?tab=followers?label=follow&style=social)](https://github.com/reem-alqurm)
-
 
 **Languages and Tools:**  
 
