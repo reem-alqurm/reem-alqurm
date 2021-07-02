@@ -19,12 +19,12 @@
 
 
 - 🌱 I’m currently learning more about coding.
-- 📫 How to reach me: [Twitter - @imthepk]https://twitter.com/r_alqurm?s=09) 
+- 📫 How to reach me: [Twitter - @r-alqurm]https://twitter.com/r_alqurm?s=09) 
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reem-alqurm-a17320142/)](https://www.linkedin.com/in/reem-alqurm-a17320142/)
-[![GitHub iampawan](https://img.shields.io/github/reem-alqurm?tab=followers?label=follow&style=social)](https://github.com/reem-alqurm)
+[![Linkedin: reemalqurm](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reem-alqurm-a17320142/)](https://www.linkedin.com/in/reem-alqurm-a17320142/)
+[![GitHub reemalqurm](https://img.shields.io/github/reem-alqurm?tab=followers?label=follow&style=social)](https://github.com/reem-alqurm)
 
 
 **Languages and Tools:**  
